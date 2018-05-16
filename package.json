@@ -24,7 +24,7 @@
 		"prettier": "prettier --write",
 		"prepush": "yarn lint && yarn jest",
 		"clean": "rm -rf dist es",
-		"postinstall": "node scripts/country-data.js && yarn prettier data/**/*.js",
+		"postinstall": "BABEL_ENV=dev babel-node scripts/country-data.js && BABEL_ENV=dev babel-node scripts/all.js && yarn prettier data/**/*.js src/**/*.js",
 		"dev": "BABEL_ENV=dev nodemon --exec babel-node"
 	},
 	"lint-staged": {

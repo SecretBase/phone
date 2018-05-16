@@ -1,5 +1,5 @@
 export const USA = {
-	mobileBeginWith: [
+	mobilePrefix: [
 		'201',
 		'202',
 		'203',
@@ -334,147 +334,147 @@ export const USA = {
 	countryCallingCodes: ['+1'],
 };
 export const ABW = {
-	mobileBeginWith: ['5', '6', '7', '9'],
+	mobilePrefix: ['5', '6', '7', '9'],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+297'],
 };
 export const AFG = {
-	mobileBeginWith: ['7'],
+	mobilePrefix: ['7'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+93'],
 };
 export const AGO = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+244'],
 };
 export const AIA = {
-	mobileBeginWith: ['2645', '2647'],
+	mobilePrefix: ['2645', '2647'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+1 264'],
 };
 export const ALA = {
-	mobileBeginWith: ['18'],
+	mobilePrefix: ['18'],
 	phoneNumberLengths: [6, 7, 8],
 	countryCallingCodes: ['+358'],
 };
 export const ALB = {
-	mobileBeginWith: ['6'],
+	mobilePrefix: ['6'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+355'],
 };
 export const AND = {
-	mobileBeginWith: ['3', '4', '6'],
+	mobilePrefix: ['3', '4', '6'],
 	phoneNumberLengths: [6],
 	countryCallingCodes: ['+376'],
 };
 export const ARE = {
-	mobileBeginWith: ['5'],
+	mobilePrefix: ['5'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+971'],
 };
 export const ARG = {
-	mobileBeginWith: [],
+	mobilePrefix: [],
 	phoneNumberLengths: [6, 7, 8, 9],
 	countryCallingCodes: ['+54'],
 };
 export const ARM = {
-	mobileBeginWith: ['4', '5', '7', '9'],
+	mobilePrefix: ['4', '5', '7', '9'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+374'],
 };
 export const ASM = {
-	mobileBeginWith: ['684733', '684258'],
+	mobilePrefix: ['684733', '684258'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+1 684'],
 };
 export const ATG = {
-	mobileBeginWith: ['2687'],
+	mobilePrefix: ['2687'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+1 268'],
 };
 export const AUS = {
-	mobileBeginWith: ['4'],
+	mobilePrefix: ['4'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+61'],
 };
 export const AUT = {
-	mobileBeginWith: ['6'],
+	mobilePrefix: ['6'],
 	phoneNumberLengths: [10, 11, 12, 13, 14],
 	countryCallingCodes: ['+43'],
 };
 export const AZE = {
-	mobileBeginWith: ['4', '5', '6', '7'],
+	mobilePrefix: ['4', '5', '6', '7'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+994'],
 };
 export const BDI = {
-	mobileBeginWith: ['7', '29'],
+	mobilePrefix: ['7', '29'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+257'],
 };
 export const BEL = {
-	mobileBeginWith: ['4'],
+	mobilePrefix: ['4'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+32'],
 };
 export const BEN = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+229'],
 };
 export const BFA = {
-	mobileBeginWith: ['6', '7'],
+	mobilePrefix: ['6', '7'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+226'],
 };
 export const BGD = {
-	mobileBeginWith: ['1'],
+	mobilePrefix: ['1'],
 	phoneNumberLengths: [8, 9, 10],
 	countryCallingCodes: ['+880'],
 };
 export const BGR = {
-	mobileBeginWith: ['87', '88', '89', '98', '99', '43'],
+	mobilePrefix: ['87', '88', '89', '98', '99', '43'],
 	phoneNumberLengths: [8, 9],
 	countryCallingCodes: ['+359'],
 };
 export const BHR = {
-	mobileBeginWith: ['3'],
+	mobilePrefix: ['3'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+973'],
 };
 export const BHS = {
-	mobileBeginWith: ['242'],
+	mobilePrefix: ['242'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+1 242'],
 };
 export const BIH = {
-	mobileBeginWith: ['6'],
+	mobilePrefix: ['6'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+387'],
 };
 export const BLR = {
-	mobileBeginWith: ['25', '29', '33', '44'],
+	mobilePrefix: ['25', '29', '33', '44'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+375'],
 };
 export const BLZ = {
-	mobileBeginWith: ['6'],
+	mobilePrefix: ['6'],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+501'],
 };
 export const BMU = {
-	mobileBeginWith: ['4413', '4415', '4417'],
+	mobilePrefix: ['4413', '4415', '4417'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+1 441'],
 };
 export const BOL = {
-	mobileBeginWith: ['7'],
+	mobilePrefix: ['7'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+591'],
 };
 export const BRA = {
-	mobileBeginWith: [
+	mobilePrefix: [
 		'119',
 		'129',
 		'139',
@@ -531,32 +531,32 @@ export const BRA = {
 	countryCallingCodes: ['+55'],
 };
 export const BRB = {
-	mobileBeginWith: [246],
+	mobilePrefix: [246],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+1 246'],
 };
 export const BRN = {
-	mobileBeginWith: ['7', '8'],
+	mobilePrefix: ['7', '8'],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+673'],
 };
 export const BTN = {
-	mobileBeginWith: ['17'],
+	mobilePrefix: ['17'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+975'],
 };
 export const BWA = {
-	mobileBeginWith: ['71', '72', '73', '74', '75', '76'],
+	mobilePrefix: ['71', '72', '73', '74', '75', '76'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+267'],
 };
 export const CAF = {
-	mobileBeginWith: ['7'],
+	mobilePrefix: ['7'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+236'],
 };
 export const CAN = {
-	mobileBeginWith: [
+	mobilePrefix: [
 		'204',
 		'226',
 		'236',
@@ -599,102 +599,102 @@ export const CAN = {
 	countryCallingCodes: ['+1'],
 };
 export const CHE = {
-	mobileBeginWith: ['7'],
+	mobilePrefix: ['7'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+41'],
 };
 export const CHL = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+56'],
 };
 export const CHN = {
-	mobileBeginWith: ['13', '14', '15', '17', '18', '19', '16'],
+	mobilePrefix: ['13', '14', '15', '17', '18', '19', '16'],
 	phoneNumberLengths: [11],
 	countryCallingCodes: ['+86'],
 };
 export const CIV = {
-	mobileBeginWith: ['0', '4', '5', '6'],
+	mobilePrefix: ['0', '4', '5', '6'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+225'],
 };
 export const CMR = {
-	mobileBeginWith: ['7', '9'],
+	mobilePrefix: ['7', '9'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+237'],
 };
 export const COD = {
-	mobileBeginWith: ['8', '9'],
+	mobilePrefix: ['8', '9'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+243'],
 };
 export const COG = {
-	mobileBeginWith: ['0'],
+	mobilePrefix: ['0'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+242'],
 };
 export const COK = {
-	mobileBeginWith: ['5', '7'],
+	mobilePrefix: ['5', '7'],
 	phoneNumberLengths: [5],
 	countryCallingCodes: ['+682'],
 };
 export const COL = {
-	mobileBeginWith: ['3'],
+	mobilePrefix: ['3'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+57'],
 };
 export const COM = {
-	mobileBeginWith: ['3', '76'],
+	mobilePrefix: ['3', '76'],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+269'],
 };
 export const CPV = {
-	mobileBeginWith: ['5', '9'],
+	mobilePrefix: ['5', '9'],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+238'],
 };
 export const CRI = {
-	mobileBeginWith: ['5', '6', '7', '8'],
+	mobilePrefix: ['5', '6', '7', '8'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+506'],
 };
 export const CUB = {
-	mobileBeginWith: ['5'],
+	mobilePrefix: ['5'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+53'],
 };
 export const CYM = {
-	mobileBeginWith: ['345'],
+	mobilePrefix: ['345'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+1 345'],
 };
 export const CYP = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+357'],
 };
 export const CZE = {
-	mobileBeginWith: ['6', '7'],
+	mobilePrefix: ['6', '7'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+420'],
 };
 export const DEU = {
-	mobileBeginWith: ['15', '16', '17'],
+	mobilePrefix: ['15', '16', '17'],
 	phoneNumberLengths: [10, 11],
 	countryCallingCodes: ['+49'],
 };
 export const DJI = {
-	mobileBeginWith: ['77'],
+	mobilePrefix: ['77'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+253'],
 };
 export const DMA = {
-	mobileBeginWith: ['767'],
+	mobilePrefix: ['767'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+1 767'],
 };
 export const DNK = {
-	mobileBeginWith: [
+	mobilePrefix: [
 		'2',
 		'30',
 		'31',
@@ -717,637 +717,637 @@ export const DNK = {
 	countryCallingCodes: ['+45'],
 };
 export const DOM = {
-	mobileBeginWith: ['809', '829', '849'],
+	mobilePrefix: ['809', '829', '849'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+1 809', '+1 829', '+1 849'],
 };
 export const DZA = {
-	mobileBeginWith: ['5', '6', '7'],
+	mobilePrefix: ['5', '6', '7'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+213'],
 };
 export const ECU = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+593'],
 };
 export const EGY = {
-	mobileBeginWith: ['1'],
+	mobilePrefix: ['1'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+20'],
 };
 export const ERI = {
-	mobileBeginWith: ['1', '7', '8'],
+	mobilePrefix: ['1', '7', '8'],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+291'],
 };
 export const ESP = {
-	mobileBeginWith: ['6', '7'],
+	mobilePrefix: ['6', '7'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+34'],
 };
 export const EST = {
-	mobileBeginWith: ['5', '81', '82', '83'],
+	mobilePrefix: ['5', '81', '82', '83'],
 	phoneNumberLengths: [7, 8],
 	countryCallingCodes: ['+372'],
 };
 export const ETH = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+251'],
 };
 export const FIN = {
-	mobileBeginWith: ['4', '5'],
+	mobilePrefix: ['4', '5'],
 	phoneNumberLengths: [9, 10],
 	countryCallingCodes: ['+358'],
 };
 export const FJI = {
-	mobileBeginWith: ['7', '9'],
+	mobilePrefix: ['7', '9'],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+679'],
 };
 export const FLK = {
-	mobileBeginWith: ['5', '6'],
+	mobilePrefix: ['5', '6'],
 	phoneNumberLengths: [5],
 	countryCallingCodes: ['+500'],
 };
 export const FRA = {
-	mobileBeginWith: ['6', '7'],
+	mobilePrefix: ['6', '7'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+33'],
 };
 export const FRO = {
-	mobileBeginWith: [],
+	mobilePrefix: [],
 	phoneNumberLengths: [6],
 	countryCallingCodes: ['+298'],
 };
 export const FSM = {
-	mobileBeginWith: [],
+	mobilePrefix: [],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+691'],
 };
 export const GAB = {
-	mobileBeginWith: ['05', '06', '07'],
+	mobilePrefix: ['05', '06', '07'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+241'],
 };
 export const GBR = {
-	mobileBeginWith: ['7'],
+	mobilePrefix: ['7'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+44'],
 };
 export const GEO = {
-	mobileBeginWith: ['5', '7'],
+	mobilePrefix: ['5', '7'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+995'],
 };
 export const GHA = {
-	mobileBeginWith: ['2', '5'],
+	mobilePrefix: ['2', '5'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+233'],
 };
 export const GIB = {
-	mobileBeginWith: ['5'],
+	mobilePrefix: ['5'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+350'],
 };
 export const GIN = {
-	mobileBeginWith: ['6'],
+	mobilePrefix: ['6'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+224'],
 };
 export const GLP = {
-	mobileBeginWith: ['690'],
+	mobilePrefix: ['690'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+590'],
 };
 export const GMB = {
-	mobileBeginWith: ['7', '9'],
+	mobilePrefix: ['7', '9'],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+220'],
 };
 export const GNB = {
-	mobileBeginWith: ['5', '6', '7'],
+	mobilePrefix: ['5', '6', '7'],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+245'],
 };
 export const GNQ = {
-	mobileBeginWith: ['222', '551'],
+	mobilePrefix: ['222', '551'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+240'],
 };
 export const GRC = {
-	mobileBeginWith: ['6'],
+	mobilePrefix: ['6'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+30'],
 };
 export const GRD = {
-	mobileBeginWith: ['473'],
+	mobilePrefix: ['473'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+473'],
 };
 export const GRL = {
-	mobileBeginWith: ['4', '5'],
+	mobilePrefix: ['4', '5'],
 	phoneNumberLengths: [6],
 	countryCallingCodes: ['+299'],
 };
 export const GTM = {
-	mobileBeginWith: ['3', '4', '5'],
+	mobilePrefix: ['3', '4', '5'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+502'],
 };
 export const GUF = {
-	mobileBeginWith: ['694'],
+	mobilePrefix: ['694'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+594'],
 };
 export const GUM = {
-	mobileBeginWith: ['671'],
+	mobilePrefix: ['671'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+1 671'],
 };
 export const GUY = {
-	mobileBeginWith: ['6'],
+	mobilePrefix: ['6'],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+592'],
 };
 export const HKG = {
-	mobileBeginWith: ['5', '6', '9'],
+	mobilePrefix: ['5', '6', '9'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+852'],
 };
 export const HND = {
-	mobileBeginWith: ['3', '7', '8', '9'],
+	mobilePrefix: ['3', '7', '8', '9'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+504'],
 };
 export const HRV = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [8, 9],
 	countryCallingCodes: ['+385'],
 };
 export const HTI = {
-	mobileBeginWith: ['3', '4'],
+	mobilePrefix: ['3', '4'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+509'],
 };
 export const HUN = {
-	mobileBeginWith: ['20', '30', '31', '70'],
+	mobilePrefix: ['20', '30', '31', '70'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+36'],
 };
 export const IDN = {
-	mobileBeginWith: ['8'],
+	mobilePrefix: ['8'],
 	phoneNumberLengths: [9, 10, 11, 12],
 	countryCallingCodes: ['+62'],
 };
 export const IND = {
-	mobileBeginWith: ['7', '8', '9'],
+	mobilePrefix: ['7', '8', '9'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+91'],
 };
 export const IRL = {
-	mobileBeginWith: ['82', '83', '84', '85', '86', '87', '88', '89'],
+	mobilePrefix: ['82', '83', '84', '85', '86', '87', '88', '89'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+353'],
 };
 export const IRN = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+98'],
 };
 export const IRQ = {
-	mobileBeginWith: ['7'],
+	mobilePrefix: ['7'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+964'],
 };
 export const ISL = {
-	mobileBeginWith: ['6', '7', '8'],
+	mobilePrefix: ['6', '7', '8'],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+354'],
 };
 export const ISR = {
-	mobileBeginWith: ['5'],
+	mobilePrefix: ['5'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+972'],
 };
 export const ITA = {
-	mobileBeginWith: ['3'],
+	mobilePrefix: ['3'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+39'],
 };
 export const JAM = {
-	mobileBeginWith: ['876'],
+	mobilePrefix: ['876'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+1 876'],
 };
 export const JOR = {
-	mobileBeginWith: ['7'],
+	mobilePrefix: ['7'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+962'],
 };
 export const JPN = {
-	mobileBeginWith: ['70', '80', '90'],
+	mobilePrefix: ['70', '80', '90'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+81'],
 };
 export const KAZ = {
-	mobileBeginWith: ['70', '74', '77'],
+	mobilePrefix: ['70', '74', '77'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+7', '+7 6', '+7 7'],
 };
 export const KEN = {
-	mobileBeginWith: ['7'],
+	mobilePrefix: ['7'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+254'],
 };
 export const KGZ = {
-	mobileBeginWith: ['5', '7'],
+	mobilePrefix: ['5', '7'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+996'],
 };
 export const KHM = {
-	mobileBeginWith: ['1', '6', '7', '8', '9'],
+	mobilePrefix: ['1', '6', '7', '8', '9'],
 	phoneNumberLengths: [8, 9],
 	countryCallingCodes: ['+855'],
 };
 export const KIR = {
-	mobileBeginWith: ['9', '30'],
+	mobilePrefix: ['9', '30'],
 	phoneNumberLengths: [5],
 	countryCallingCodes: ['+686'],
 };
 export const KNA = {
-	mobileBeginWith: ['869'],
+	mobilePrefix: ['869'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+1 869'],
 };
 export const KOR = {
-	mobileBeginWith: ['1'],
+	mobilePrefix: ['1'],
 	phoneNumberLengths: [9, 10],
 	countryCallingCodes: ['+82'],
 };
 export const KWT = {
-	mobileBeginWith: ['5', '6', '9'],
+	mobilePrefix: ['5', '6', '9'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+965'],
 };
 export const LAO = {
-	mobileBeginWith: ['20'],
+	mobilePrefix: ['20'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+856'],
 };
 export const LBN = {
-	mobileBeginWith: ['3', '7'],
+	mobilePrefix: ['3', '7'],
 	phoneNumberLengths: [7, 8],
 	countryCallingCodes: ['+961'],
 };
 export const LBR = {
-	mobileBeginWith: ['4', '5', '6', '7'],
+	mobilePrefix: ['4', '5', '6', '7'],
 	phoneNumberLengths: [7, 8],
 	countryCallingCodes: ['+231'],
 };
 export const LBY = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+218'],
 };
 export const LCA = {
-	mobileBeginWith: ['758'],
+	mobilePrefix: ['758'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+1 758'],
 };
 export const LIE = {
-	mobileBeginWith: ['7'],
+	mobilePrefix: ['7'],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+423'],
 };
 export const LKA = {
-	mobileBeginWith: ['7'],
+	mobilePrefix: ['7'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+94'],
 };
 export const LSO = {
-	mobileBeginWith: ['5', '6'],
+	mobilePrefix: ['5', '6'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+266'],
 };
 export const LTU = {
-	mobileBeginWith: ['6'],
+	mobilePrefix: ['6'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+370'],
 };
 export const LUX = {
-	mobileBeginWith: ['6'],
+	mobilePrefix: ['6'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+352'],
 };
 export const LVA = {
-	mobileBeginWith: ['2'],
+	mobilePrefix: ['2'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+371'],
 };
 export const MAC = {
-	mobileBeginWith: ['6'],
+	mobilePrefix: ['6'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+853'],
 };
 export const MAR = {
-	mobileBeginWith: ['6'],
+	mobilePrefix: ['6'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+212'],
 };
 export const MCO = {
-	mobileBeginWith: ['4', '6'],
+	mobilePrefix: ['4', '6'],
 	phoneNumberLengths: [8, 9],
 	countryCallingCodes: ['+377'],
 };
 export const MDA = {
-	mobileBeginWith: ['6', '7'],
+	mobilePrefix: ['6', '7'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+373'],
 };
 export const MDG = {
-	mobileBeginWith: ['3'],
+	mobilePrefix: ['3'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+261'],
 };
 export const MDV = {
-	mobileBeginWith: ['7', '9'],
+	mobilePrefix: ['7', '9'],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+960'],
 };
 export const MEX = {
-	mobileBeginWith: [''],
+	mobilePrefix: [''],
 	phoneNumberLengths: [10, 11],
 	countryCallingCodes: ['+52'],
 };
 export const MHL = {
-	mobileBeginWith: [],
+	mobilePrefix: [],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+692'],
 };
 export const MKD = {
-	mobileBeginWith: ['7'],
+	mobilePrefix: ['7'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+389'],
 };
 export const MLI = {
-	mobileBeginWith: ['6', '7'],
+	mobilePrefix: ['6', '7'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+223'],
 };
 export const MLT = {
-	mobileBeginWith: ['79', '99'],
+	mobilePrefix: ['79', '99'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+356'],
 };
 export const MMR = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+95'],
 };
 export const MNE = {
-	mobileBeginWith: ['6'],
+	mobilePrefix: ['6'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+382'],
 };
 export const MNG = {
-	mobileBeginWith: ['5', '8', '9'],
+	mobilePrefix: ['5', '8', '9'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+976'],
 };
 export const MNP = {
-	mobileBeginWith: ['670'],
+	mobilePrefix: ['670'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+1 670'],
 };
 export const MOZ = {
-	mobileBeginWith: ['8'],
+	mobilePrefix: ['8'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+258'],
 };
 export const MRT = {
-	mobileBeginWith: [],
+	mobilePrefix: [],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+222'],
 };
 export const MSR = {
-	mobileBeginWith: ['664'],
+	mobilePrefix: ['664'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+1 664'],
 };
 export const MTQ = {
-	mobileBeginWith: ['696'],
+	mobilePrefix: ['696'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+596'],
 };
 export const MUS = {
-	mobileBeginWith: [],
+	mobilePrefix: [],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+230'],
 };
 export const MWI = {
-	mobileBeginWith: ['77', '88', '99'],
+	mobilePrefix: ['77', '88', '99'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+265'],
 };
 export const MYS = {
-	mobileBeginWith: ['1'],
+	mobilePrefix: ['1'],
 	phoneNumberLengths: [9, 10],
 	countryCallingCodes: ['+60'],
 };
 export const MYT = {
-	mobileBeginWith: ['639'],
+	mobilePrefix: ['639'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+262'],
 };
 export const NAM = {
-	mobileBeginWith: ['60', '81', '82', '85'],
+	mobilePrefix: ['60', '81', '82', '85'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+264'],
 };
 export const NCL = {
-	mobileBeginWith: [],
+	mobilePrefix: [],
 	phoneNumberLengths: [6],
 	countryCallingCodes: ['+687'],
 };
 export const NER = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+227'],
 };
 export const NFK = {
-	mobileBeginWith: ['5', '8'],
+	mobilePrefix: ['5', '8'],
 	phoneNumberLengths: [5],
 	countryCallingCodes: ['+672'],
 };
 export const NGA = {
-	mobileBeginWith: ['70', '80', '81'],
+	mobilePrefix: ['70', '80', '81'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+234'],
 };
 export const NIC = {
-	mobileBeginWith: ['8'],
+	mobilePrefix: ['8'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+505'],
 };
 export const NIU = {
-	mobileBeginWith: [],
+	mobilePrefix: [],
 	phoneNumberLengths: [4],
 	countryCallingCodes: ['+683'],
 };
 export const NLD = {
-	mobileBeginWith: ['6'],
+	mobilePrefix: ['6'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+31'],
 };
 export const NOR = {
-	mobileBeginWith: ['4', '9'],
+	mobilePrefix: ['4', '9'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+47'],
 };
 export const NPL = {
-	mobileBeginWith: ['97', '98'],
+	mobilePrefix: ['97', '98'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+977'],
 };
 export const NRU = {
-	mobileBeginWith: ['555'],
+	mobilePrefix: ['555'],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+674'],
 };
 export const NZL = {
-	mobileBeginWith: ['2'],
+	mobilePrefix: ['2'],
 	phoneNumberLengths: [8, 9, 10],
 	countryCallingCodes: ['+64'],
 };
 export const OMN = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+968'],
 };
 export const PAK = {
-	mobileBeginWith: ['3'],
+	mobilePrefix: ['3'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+92'],
 };
 export const PAN = {
-	mobileBeginWith: ['5', '6'],
+	mobilePrefix: ['5', '6'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+507'],
 };
 export const PER = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+51'],
 };
 export const PHL = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+63'],
 };
 export const PLW = {
-	mobileBeginWith: [],
+	mobilePrefix: [],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+680'],
 };
 export const PNG = {
-	mobileBeginWith: ['7'],
+	mobilePrefix: ['7'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+675'],
 };
 export const POL = {
-	mobileBeginWith: ['4', '5', '6', '7', '8'],
+	mobilePrefix: ['4', '5', '6', '7', '8'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+48'],
 };
 export const PRI = {
-	mobileBeginWith: ['787', '939'],
+	mobilePrefix: ['787', '939'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+1 787', '+1 939'],
 };
 export const PRT = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+351'],
 };
 export const PRY = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+595'],
 };
 export const PSE = {
-	mobileBeginWith: ['5'],
+	mobilePrefix: ['5'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+970'],
 };
 export const PYF = {
-	mobileBeginWith: [],
+	mobilePrefix: [],
 	phoneNumberLengths: [6],
 	countryCallingCodes: ['+689'],
 };
 export const QAT = {
-	mobileBeginWith: ['3', '5', '6', '7'],
+	mobilePrefix: ['3', '5', '6', '7'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+974'],
 };
 export const REU = {
-	mobileBeginWith: ['692', '693'],
+	mobilePrefix: ['692', '693'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+262'],
 };
 export const ROU = {
-	mobileBeginWith: ['7'],
+	mobilePrefix: ['7'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+40'],
 };
 export const RUS = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+7', '+7 3', '+7 4', '+7 8'],
 };
 export const RWA = {
-	mobileBeginWith: ['7'],
+	mobilePrefix: ['7'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+250'],
 };
 export const SAU = {
-	mobileBeginWith: ['5'],
+	mobilePrefix: ['5'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+966'],
 };
 export const SDN = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+249'],
 };
 export const SEN = {
-	mobileBeginWith: ['7'],
+	mobilePrefix: ['7'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+221'],
 };
 export const SGP = {
-	mobileBeginWith: ['8', '9'],
+	mobilePrefix: ['8', '9'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+65'],
 };
 export const SHN = {
-	mobileBeginWith: [],
+	mobilePrefix: [],
 	phoneNumberLengths: [4],
 	countryCallingCodes: ['+290'],
 };
 export const SJM = {
-	mobileBeginWith: [],
+	mobilePrefix: [],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+47'],
 };
 export const SLB = {
-	mobileBeginWith: ['7', '8'],
+	mobilePrefix: ['7', '8'],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+677'],
 };
 export const SLE = {
-	mobileBeginWith: [
+	mobilePrefix: [
 		'21',
 		'25',
 		'30',
@@ -1367,222 +1367,222 @@ export const SLE = {
 	countryCallingCodes: ['+232'],
 };
 export const SLV = {
-	mobileBeginWith: ['7'],
+	mobilePrefix: ['7'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+503'],
 };
 export const SMR = {
-	mobileBeginWith: ['3', '6'],
+	mobilePrefix: ['3', '6'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+378'],
 };
 export const SOM = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+252'],
 };
 export const SXM = {
-	mobileBeginWith: ['721'],
+	mobilePrefix: ['721'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+1 721'],
 };
 export const SPM = {
-	mobileBeginWith: ['55'],
+	mobilePrefix: ['55'],
 	phoneNumberLengths: [6],
 	countryCallingCodes: ['+508'],
 };
 export const SRB = {
-	mobileBeginWith: ['6'],
+	mobilePrefix: ['6'],
 	phoneNumberLengths: [8, 9],
 	countryCallingCodes: ['+381'],
 };
 export const STP = {
-	mobileBeginWith: ['98', '99'],
+	mobilePrefix: ['98', '99'],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+239'],
 };
 export const SUR = {
-	mobileBeginWith: ['6', '7', '8'],
+	mobilePrefix: ['6', '7', '8'],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+597'],
 };
 export const SVK = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+421'],
 };
 export const SVN = {
-	mobileBeginWith: ['3', '4', '5', '6', '7'],
+	mobilePrefix: ['3', '4', '5', '6', '7'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+386'],
 };
 export const SWE = {
-	mobileBeginWith: ['7'],
+	mobilePrefix: ['7'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+46'],
 };
 export const SYC = {
-	mobileBeginWith: ['2'],
+	mobilePrefix: ['2'],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+248'],
 };
 export const SYR = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+963'],
 };
 export const TCA = {
-	mobileBeginWith: ['6492', '6493', '6494'],
+	mobilePrefix: ['6492', '6493', '6494'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+1 649'],
 };
 export const TCD = {
-	mobileBeginWith: ['6', '7', '9'],
+	mobilePrefix: ['6', '7', '9'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+235'],
 };
 export const TGO = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+228'],
 };
 export const THA = {
-	mobileBeginWith: ['6', '8', '9'],
+	mobilePrefix: ['6', '8', '9'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+66'],
 };
 export const TJK = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+992'],
 };
 export const TKL = {
-	mobileBeginWith: [],
+	mobilePrefix: [],
 	phoneNumberLengths: [4],
 	countryCallingCodes: ['+690'],
 };
 export const TKM = {
-	mobileBeginWith: ['6'],
+	mobilePrefix: ['6'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+993'],
 };
 export const TLS = {
-	mobileBeginWith: ['7'],
+	mobilePrefix: ['7'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+670'],
 };
 export const TON = {
-	mobileBeginWith: [],
+	mobilePrefix: [],
 	phoneNumberLengths: [5],
 	countryCallingCodes: ['+676'],
 };
 export const TTO = {
-	mobileBeginWith: ['868'],
+	mobilePrefix: ['868'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+1 868'],
 };
 export const TUN = {
-	mobileBeginWith: ['2', '9'],
+	mobilePrefix: ['2', '9'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+216'],
 };
 export const TUR = {
-	mobileBeginWith: ['5'],
+	mobilePrefix: ['5'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+90'],
 };
 export const TUV = {
-	mobileBeginWith: [],
+	mobilePrefix: [],
 	phoneNumberLengths: [5],
 	countryCallingCodes: ['+688'],
 };
 export const TWN = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+886'],
 };
 export const TZA = {
-	mobileBeginWith: ['7', '6'],
+	mobilePrefix: ['7', '6'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+255'],
 };
 export const UGA = {
-	mobileBeginWith: ['7'],
+	mobilePrefix: ['7'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+256'],
 };
 export const UKR = {
-	mobileBeginWith: ['39', '50', '63', '66', '67', '68', '9'],
+	mobilePrefix: ['39', '50', '63', '66', '67', '68', '9'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+380'],
 };
 export const URY = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [8],
 	countryCallingCodes: ['+598'],
 };
 export const UZB = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+998'],
 };
 export const VCT = {
-	mobileBeginWith: ['784'],
+	mobilePrefix: ['784'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+1 784'],
 };
 export const VEN = {
-	mobileBeginWith: ['4'],
+	mobilePrefix: ['4'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+58'],
 };
 export const VGB = {
-	mobileBeginWith: ['284'],
+	mobilePrefix: ['284'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+1 284'],
 };
 export const VIR = {
-	mobileBeginWith: ['340'],
+	mobilePrefix: ['340'],
 	phoneNumberLengths: [10],
 	countryCallingCodes: ['+1 340'],
 };
 export const VNM = {
-	mobileBeginWith: ['8', '9', '1'],
+	mobilePrefix: ['8', '9', '1'],
 	phoneNumberLengths: [9, 10],
 	countryCallingCodes: ['+84'],
 };
 export const VUT = {
-	mobileBeginWith: ['5', '7'],
+	mobilePrefix: ['5', '7'],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+678'],
 };
 export const WLF = {
-	mobileBeginWith: [],
+	mobilePrefix: [],
 	phoneNumberLengths: [6],
 	countryCallingCodes: ['+681'],
 };
 export const WSM = {
-	mobileBeginWith: ['7'],
+	mobilePrefix: ['7'],
 	phoneNumberLengths: [7],
 	countryCallingCodes: ['+685'],
 };
 export const YEM = {
-	mobileBeginWith: ['7'],
+	mobilePrefix: ['7'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+967'],
 };
 export const ZAF = {
-	mobileBeginWith: ['6', '7', '8'],
+	mobilePrefix: ['6', '7', '8'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+27'],
 };
 export const ZMB = {
-	mobileBeginWith: ['9'],
+	mobilePrefix: ['9'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+260'],
 };
 export const ZWE = {
-	mobileBeginWith: ['71', '73', '77'],
+	mobilePrefix: ['71', '73', '77'],
 	phoneNumberLengths: [9],
 	countryCallingCodes: ['+263'],
 };

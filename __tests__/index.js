@@ -74,15 +74,15 @@ describe('Testing input parameter Phone', () => {
 	});
 
 	describe('Test 6', () => {
-		test('should remove the leadings zero when country is GAB', () => {
+		test('should not remove the leadings zero when country is GAB', () => {
 			expect(phone('+241 05345678', 'GAB')).toEqual(['+24105345678', 'GAB']);
 		});
 
-		test('should remove the leadings zero when country is CIV', () => {
+		test('should not remove the leadings zero when country is CIV', () => {
 			expect(phone('+225 05345678', 'CIV')).toEqual(['+22505345678', 'CIV']);
 		});
 
-		test('should remove the leadings zero when country is COG', () => {
+		test('should not remove the leadings zero when country is COG', () => {
 			expect(phone('+242 012345678', 'COG')).toEqual(['+242012345678', 'COG']);
 		});
 	});

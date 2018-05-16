@@ -5,7 +5,7 @@ import phoneData from '../lib/iso3166Data';
 const data = phoneData.map(
 	({alpha3, mobile_begin_with, phone_number_lengths}) => ({
 		alpha3,
-		mobileBeginWith: mobile_begin_with,
+		mobilePrefix: mobile_begin_with,
 		phoneNumberLengths: phone_number_lengths,
 	}),
 );
@@ -25,9 +25,9 @@ const codeGen = (alpha3, phone) =>
 	`export const ${alpha3} = ${JSON.stringify(phone, null, '\t')};`;
 
 const code = results
-	.map(({alpha3, mobileBeginWith, phoneNumberLengths, countryCallingCodes}) =>
+	.map(({alpha3, mobilePrefix, phoneNumberLengths, countryCallingCodes}) =>
 		codeGen(alpha3, {
-			mobileBeginWith,
+			mobilePrefix,
 			phoneNumberLengths,
 			countryCallingCodes,
 		}),
